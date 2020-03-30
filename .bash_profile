@@ -13,6 +13,8 @@ alias gst='git stash'
 alias gsp='git stash pop'
 alias gc='git checkout'
 alias gl='git log'
+alias gr='git remote'
+alias gf='git fetch'
 
 alias sb='source ~/.bash_profile'
 alias ll="ls -lhA"
