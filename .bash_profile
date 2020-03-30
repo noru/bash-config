@@ -15,6 +15,7 @@ alias gc='git checkout'
 alias gl='git log'
 alias gr='git remote'
 alias gf='git fetch'
+alias gm='git merge'
 
 alias sb='source ~/.bash_profile'
 alias ll="ls -lhA"
