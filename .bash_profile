@@ -11,11 +11,15 @@ alias gb='git branch'
 alias gs='git status'
 alias gst='git stash'
 alias gsp='git stash pop'
-alias gc='git checkout'
+alias gc='git commit'
+alias gch='git checkout'
 alias gl='git log'
 alias gr='git remote'
 alias gf='git fetch'
 alias gm='git merge'
+
+alias hb='hub browse'
+alias hpr='hub pull-request'
 
 alias sb='source ~/.bash_profile'
 alias ll="ls -lhA"
